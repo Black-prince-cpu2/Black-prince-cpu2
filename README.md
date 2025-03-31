@@ -1,0 +1,47 @@
+# 🌟 Welcome to Udeakpu Somto's World of Code & Color!  
+**Aspiring Web Developer | HTML/CSS/JS Explorer | Nigerian Tech Enthusiast**  
+
+🇳🇬 **Mission:** Building *joyful, powerful, and productive* web experiences for Nigeria and beyond.  
+🎨 **Design Mantra:** *"CSS = 'Colorful' Style Sheets"* (Fight me.)  
+
+---
+
+## 🛠️ Tech Toolkit  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+
+**Current Focus:**  
+🔥 Mastering JavaScript to build *interactive wonders* while keeping things **vibrant** (because life’s too short for dull UIs).  
+
+---
+
+## 🦜 Featured Project: **Bird Website**  
+**Tagline:** *"Where feathers meet flexbox."*  
+✨ **Cool Factor:** A riot of **colors and vibrancy** — proving CSS can be art.  
+🔗 **Live Demo:** [Your-Link-Here](#) *(Want feedback? I’m all ears!)*  
+
+---
+
+## 🚀 Nigerian Tech Vision  
+I’m on a quest to:  
+- Build tools that **delight users** *and* **boost productivity** (why choose?).  
+- Solve local problems with *global-quality code* (think: "JAMB CBT Simulator 2.0").  
+- Infuse projects with **African creativity** — because our solutions deserve flair.  
+
+---
+
+## 📫 Let’s Connect!  
+🐦 **Twitter:** [@YourHandle](https://twitter.com/) *(I tweet about code when i go tweet mode.)*  
+💼 **LinkedIn:** [Udeakpu Somto](https://linkedin.com/) *(Let’s geek out over Nigerian tech!)*  
+📧 **Email:** somtomichayah@gmail.com  
+
+---
+
+### 😄 Fun Facts  
+- When I’m not battling CSS, I’m probably debating *"Which Nigerian dish fuels the best code?"* (Spoiler: It’s jollof rice.)  
+- My dream project? An app that **can become any possible social media platform with unique interaction styles just by tweaking the settings.One app that'll got you covered**. *(VCs, hit me up.)*  
+
+--- 
+
+**P.S.** Hover over my GitHub avatar for a surprise! *(Hint: It involves a dancing parrot.)*  
