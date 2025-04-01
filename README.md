@@ -1,4 +1,4 @@
-⁸# 🌟 Welcome to Udeakpu Somto's World of Code & Color!  
+### 🌟 Welcome to Udeakpu Somto's World of Code & Color!  
 **Aspiring Web Developer | HTML/CSS/JS Explorer | Nigerian Tech Enthusiast**  
 
 🇳🇬 **Mission:** Building *joyful, powerful, and productive* web experiences for Nigeria and beyond.  
