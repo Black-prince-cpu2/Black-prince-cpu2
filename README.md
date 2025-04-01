@@ -40,7 +40,7 @@ I’m on a quest to:
 
 ### 😄 Fun Facts  
 - When I’m not battling CSS, I’m probably debating *"Which Nigerian dish fuels the best code?"* (Spoiler: It’s jollof rice.)  
-- My dream project? An app that **can become any possible social media platform with unique interaction styles just by tweaking the settings.One app that'll got you covered**. *(VCs, hit me up.)*  
+- My dream project? An app that **can be used for practicalizing sciences(biology,physics, maths,etc.) In a virtual environment. No need to worry about setting the school on fire, virtual labs don't burn 😉**. *(VCs, hit me up.)*  
 
 --- 
 
