@@ -13,9 +13,16 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Made_in_Nigeria](https://img.shields.io/badge/MADE_IN_NG-1DA1F2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBmaWxsPSIjMDA3MjAwIiBkPSJNMCAwaDUxMnY1MTJIMHoiLz48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMjU2IDI1Nk0xNzAgMjU2aDE3MiIvPjwvc3ZnPg==)
 
+### Stats
+
 ### 🔥 #100DaysOfCode(Saturdays off) Challenge  
    Committing to code daily to level up my skills!  
    Current weekly streak:[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&mode=weekly&fire=FF0000&ring=FF0000&currStreakLabel=FFFFFF)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![Important Project stats]
+
+![Bird-Website Status](https://img.shields.io/website?url=https://YOUR_PROJECT_URL)
+![Last Commit](https://img.shields.io/github/last-commit/YOUR_USERNAME/YOUR_REPO)
    
 **Current Focus:**  
 🔥 Mastering JavaScript to build *interactive wonders* while keeping things **vibrant** (because life’s too short for dull UIs).  
