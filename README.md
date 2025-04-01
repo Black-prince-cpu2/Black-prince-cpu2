@@ -19,9 +19,10 @@
    Committing to code daily to level up my skills!  
    Current weekly streak:[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&mode=weekly&fire=FF0000&ring=FF0000&currStreakLabel=FFFFFF)](https://git.io/streak-stats)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-![Important Project stats]
+### Important Project stats
 
-![Bird-Website Status](https://img.shields.io/website?url=https://YOUR_PROJECT_URL)
+### Statistics of my important projects.
+Bird website: ![Website Status](https://img.shields.io/website?url=https://YOUR_PROJECT_URL)
 ![Last Commit](https://img.shields.io/github/last-commit/YOUR_USERNAME/YOUR_REPO)
    
 **Current Focus:**  
