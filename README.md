@@ -12,9 +12,11 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Made_in_Nigeria](https://img.shields.io/badge/MADE_IN_NG-1DA1F2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBmaWxsPSIjMDA3MjAwIiBkPSJNMCAwaDUxMnY1MTJIMHoiLz48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMjU2IDI1Nk0xNzAgMjU2aDE3MiIvPjwvc3ZnPg==)
-![100DaysOfCode](https://img.shields.io/badge/100_Days_Of_Code-FF5722?style=for-the-badge&logo=freecodecamp&logoColor=white)
 
-
+### 🔥 #100DaysOfCode(Saturdays off) Challenge  
+   Committing to code daily to level up my skills!  
+   Current weekly streak: [![GitHub Streak](![100DaysOfCode](https://img.shields.io/badge/100_Days_Of_Code-FF5722?style=for-the-badge&logo=freecodecamp&logoColor=white)]
+   
 **Current Focus:**  
 🔥 Mastering JavaScript to build *interactive wonders* while keeping things **vibrant** (because life’s too short for dull UIs).  
 
