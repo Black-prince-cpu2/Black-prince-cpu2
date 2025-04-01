@@ -1,4 +1,4 @@
-# 🌟 Welcome to Udeakpu Somto's World of Code & Color!  
+⁸# 🌟 Welcome to Udeakpu Somto's World of Code & Color!  
 **Aspiring Web Developer | HTML/CSS/JS Explorer | Nigerian Tech Enthusiast**  
 
 🇳🇬 **Mission:** Building *joyful, powerful, and productive* web experiences for Nigeria and beyond.  
@@ -17,13 +17,13 @@
 
 ### 🔥 #100DaysOfCode(Saturdays off) Challenge  
    Committing to code daily to level up my skills!  
-   Current weekly streak:[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&mode=weekly&fire=FF0000&ring=FF0000&currStreakLabel=FFFFFF)](https://git.io/streak-stats)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+   Current weekly streak:[![GitHub Streak](https://streak-stats.demolab.com?user=Black-prince-cpu2&theme=dark&mode=weekly&fire=FF0000&ring=FF0000&currStreakLabel=FFFFFF)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Black-prince-cpu2&show_icons=true)
 ### Important Project stats
 
 ### Statistics of my important projects.
 Bird website: ![Website Status](https://img.shields.io/website?url=https://YOUR_PROJECT_URL)
-![Last Commit](https://img.shields.io/github/last-commit/YOUR_USERNAME/YOUR_REPO)
+![Last Commit](https://img.shields.io/github/last-commit/Black-prince-cpu2/YOUR_REPO)
    
 **Current Focus:**  
 🔥 Mastering JavaScript to build *interactive wonders* while keeping things **vibrant** (because life’s too short for dull UIs).  
