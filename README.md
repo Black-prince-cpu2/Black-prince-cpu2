@@ -15,7 +15,7 @@
 
 ### 🔥 #100DaysOfCode(Saturdays off) Challenge  
    Committing to code daily to level up my skills!  
-   Current weekly streak: [![GitHub Streak](![100DaysOfCode](https://img.shields.io/badge/100_Days_Of_Code-FF5722?style=for-the-badge&logo=freecodecamp&logoColor=white)]
+   Current weekly streak:[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&mode=weekly&fire=FF0000&ring=FF0000&currStreakLabel=FFFFFF)](https://git.io/streak-stats)
    
 **Current Focus:**  
 🔥 Mastering JavaScript to build *interactive wonders* while keeping things **vibrant** (because life’s too short for dull UIs).  
