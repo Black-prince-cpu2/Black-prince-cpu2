@@ -22,10 +22,10 @@
 ### Important Project stats
 
 ### Statistics of my important projects.
-Bird website: ![Website Status](https://img.shields.io/website?url=https://https://github.com/Black-prince-cpu2/Bird-website)
+![Website Status](https://img.shields.io/website?url=https://https://github.com/Black-prince-cpu2/Bird-website)
+![Last Commit](https://img.shields.io/github/last-commit/Black-prince-cpu2/Black-prince-cpu2/Bird-website)
 
-![Last Commit]
-(https://img.shields.io/github/last-commit/Black-prince-cpu2/ Bird-website)
+
    
 **Current Focus:**  
 🔥 Mastering JavaScript to build *interactive wonders* while keeping things **vibrant** (because life’s too short for dull UIs).  
