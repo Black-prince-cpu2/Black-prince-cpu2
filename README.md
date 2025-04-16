@@ -35,7 +35,7 @@
 ## 🦜 Featured Project: **Bird Website**  
 **Tagline:** *"Where feathers meet flexbox."*  
 ✨ **Cool Factor:** A riot of **colors and vibrancy** — proving CSS can be art.  
-🔗 **Live Demo:** [Your-Link-Here](#) *(Want feedback? I’m all ears!)*  
+🔗 **Live Demo:** [https://black-prince-cpu2.github.io/Bird-website/]  ](#) *(Want feedback? I’m all ears!)*  
 
 ---
 
@@ -49,7 +49,7 @@ I’m on a quest to:
 
 ## 📫 Let’s Connect!  
 🐦 **Twitter:** [@YourHandle](https://twitter.com/) *(I tweet about code when i go tweet mode.)*  
-💼 **LinkedIn:** [Udeakpu Somto](https://linkedin.com/) *(Let’s geek out over Nigerian tech!)*  
+💼 **LinkedIn:** [Somto Udeakpu](https://www.linkedin.com/in/somto-udeakpu-63a1542b7/?trk=opento_sprofile_pfeditor) *(Let’s geek out over Nigerian tech!)*  
 📧 **Email:** somtomichayah@gmail.com  
 
 ---
