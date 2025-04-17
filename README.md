@@ -31,9 +31,9 @@
    
    **Wakatime coding hours**.:
    
-   ![Wakatime Coding Hours](https://wakatime.com/badge/user/@fc47ed9f-5f6e-409f-8ebd-938e7d4550f6.svg).
+   ![WakaTime](https://wakatime.com/badge/user/Black_Prince.svg).
    
-   ![WakaTime Weekly Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Black_Prince&layout=compact).
+   [![Weekly Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Black_Prince&layout=compact&theme=dark)](https://wakatime.com/@Black_Prince).
    
 ### Important Project stats
   
