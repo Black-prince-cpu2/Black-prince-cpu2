@@ -21,8 +21,11 @@
 
 ### 🔥 #100DaysOfCode(Saturdays off) Challenge  
    Committing to code daily to level up my skills!  
-   Current weekly streak:[![GitHub Streak](https://streak-stats.demolab.com?user=Black-prince-cpu2&theme=dark&mode=weekly&fire=FF0000&ring=FF0000&currStreakLabel=FFFFFF)](https://git.io/streak-stats)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Black-prince-cpu2&show_icons=true)
+   **Current weekly streak**:[![GitHub Streak](https://streak-stats.demolab.com?user=Black-prince-cpu2&theme=dark&mode=weekly&fire=FF0000&ring=FF0000&currStreakLabel=FFFFFF)](https://git.io/streak-stats)
+   **Github stats**: ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Black-prince-cpu2&show_icons=true)
+   **Wakatime coding hours**: ![Wakatime Coding Hours](https://wakatime.com/badge/user/@fc47ed9f-5f6e-409f-8ebd-938e7d4550f6.svg)
+                              ![WakaTime Weekly Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Black_Prince&layout=compact)
+   
 ### Important Project stats
   
 ### Statistics of my important projects.
@@ -68,4 +71,3 @@ I’m on a quest to:
 
 --- 
 
-**P.S.** Hover over my GitHub avatar for a surprise! *(Hint: It involves a dancing parrot.)*  
