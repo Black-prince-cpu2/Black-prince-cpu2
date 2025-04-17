@@ -4,11 +4,15 @@
 🇳🇬 **Mission:** Building *joyful, powerful, and productive* web experiences for Nigeria and beyond.  
 🎨 **Design Mantra:** *"CSS = 'Colorful' Style Sheets"* (Fight me.)  
 
+**Current Focus:**  
+🔥 Mastering JavaScript to build *interactive wonders* while keeping things **vibrant** (because life’s too short for dull UIs).
 ---
 
 ## 🛠️ Tech Toolkit  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Learning](https://img.shields.io/badge/Learning-JS-9cf?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Made_in_Nigeria](https://img.shields.io/badge/MADE_IN_NG-1DA1F2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBmaWxsPSIjMDA3MjAwIiBkPSJNMCAwaDUxMnY1MTJIMHoiLz48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMjU2IDI1Nk0xNzAgMjU2aDE3MiIvPjwvc3ZnPg==)
@@ -20,18 +24,16 @@
    Current weekly streak:[![GitHub Streak](https://streak-stats.demolab.com?user=Black-prince-cpu2&theme=dark&mode=weekly&fire=FF0000&ring=FF0000&currStreakLabel=FFFFFF)](https://git.io/streak-stats)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Black-prince-cpu2&show_icons=true)
 ### Important Project stats
-
+  
 ### Statistics of my important projects.
-![Website Status](https://img.shields.io/website?url=https://https://https://black-prince-cpu2.github.io/Bird-website/)
-![Last Commit](https://img.shields.io/github/last-commit/Black-prince-cpu2/https://black-prince-cpu2.github.io/Bird-website/])
+![Website Status](https://img.shields.io/website?url=https://https://black-prince-cpu2.github.io/Bird-website/)
+![Last Commit](https://img.shields.io/github/last-commit/Black-prince-cpu2/Bird-website)
 
+![Website Status](https://img.shields.io/website?url=https://https://https://black-prince-cpu2.github.io/Afro-fusion-website/)
+![Last Commit](https://img.shields.io/github/last-commit/Black-prince-cpu2/Afro-fusion-website)
 
-   
-**Current Focus:**  
-🔥 Mastering JavaScript to build *interactive wonders* while keeping things **vibrant** (because life’s too short for dull UIs).  
 
 ---
-
 ## 🦜 Featured Project: 
 **Bird Website**  
 **Tagline:** *"Where feathers meet flexbox."*  
