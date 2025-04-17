@@ -22,8 +22,8 @@
 ### Important Project stats
 
 ### Statistics of my important projects.
-![Website Status](https://img.shields.io/website?url=https://https://github.com/Black-prince-cpu2/Bird-website)
-![Last Commit](https://img.shields.io/github/last-commit/Black-prince-cpu2/Black-prince-cpu2/Bird-website)
+![Website Status](https://img.shields.io/website?url=https://https://https://black-prince-cpu2.github.io/Bird-website/)
+![Last Commit](https://img.shields.io/github/last-commit/Black-prince-cpu2/https://black-prince-cpu2.github.io/Bird-website/])
 
 
    
@@ -32,10 +32,16 @@
 
 ---
 
-## 🦜 Featured Project: **Bird Website**  
+## 🦜 Featured Project: 
+**Bird Website**  
 **Tagline:** *"Where feathers meet flexbox."*  
 ✨ **Cool Factor:** A riot of **colors and vibrancy** — proving CSS can be art.  
-🔗 **Live Demo:** [https://black-prince-cpu2.github.io/Bird-website/]  ](#) *(Want feedback? I’m all ears!)*  
+🔗 **Live Demo:** [https://black-prince-cpu2.github.io/Bird-website/]  ](#) *(Want feedback? I’m all ears!)*
+
+**Afro-Fusion website**  
+**Tagline:** *"Where css displays our heritage."*  
+✨ **Cool Factor:** Appealing display and **irresistible food**.  
+🔗 **Live Demo:** [https://black-prince-cpu2.github.io/Afro-fusion-website/]  ](#) *(Want feedback? I’m all ears!)*  
 
 ---
 
