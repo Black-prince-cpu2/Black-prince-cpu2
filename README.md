@@ -1,11 +1,11 @@
 ### 🌟 Welcome to Udeakpu Somto's World of Code & Color!  
-**Aspiring Web Developer | HTML/CSS/JS Explorer | Nigerian Tech Enthusiast**  
+**Aspiring Web Developer | HTML/CSS/JS/Typescript/React | Nigerian Tech Enthusiast**  
 
 🇳🇬 **Mission:** Building *joyful, powerful, and productive* web experiences for Nigeria and beyond.  
 🎨 **Design Mantra:** *"CSS = 'Colorful' Style Sheets"* (Fight me.)  
 
 **Current Focus:**  
-🔥 Mastering JavaScript to build *interactive wonders* while keeping things **vibrant** (because life’s too short for dull UIs).
+🔥 Mastering React to build *interactive wonders* while keeping things **vibrant** (because life’s too short for dull UIs).
 ---
 
 ## 🛠️ Tech Toolkit  
